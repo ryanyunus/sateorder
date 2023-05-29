@@ -1,0 +1,12 @@
+C:\Users\A\source\repos\PizzaOrderReceipt\bin\Debug\PizzaOrderReceipt.exe.config
+C:\Users\A\source\repos\PizzaOrderReceipt\bin\Debug\PizzaOrderReceipt.exe
+C:\Users\A\source\repos\PizzaOrderReceipt\bin\Debug\PizzaOrderReceipt.pdb
+C:\Users\A\source\repos\PizzaOrderReceipt\obj\Debug\PizzaOrderReceipt.csproj.AssemblyReference.cache
+C:\Users\A\source\repos\PizzaOrderReceipt\obj\Debug\PizzaOrderReceipt.Properties.Resources.resources
+C:\Users\A\source\repos\PizzaOrderReceipt\obj\Debug\PizzaOrderReceipt.csproj.GenerateResource.cache
+C:\Users\A\source\repos\PizzaOrderReceipt\obj\Debug\PizzaOrderReceipt.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\PizzaOrderReceipt\obj\Debug\PizzaOrderReceipt.exe
+C:\Users\A\source\repos\PizzaOrderReceipt\obj\Debug\PizzaOrderReceipt.pdb
+C:\Users\A\source\repos\PizzaOrderReceipt\obj\Debug\PizzaOrderReceipt.Billing.resources
+C:\Users\A\source\repos\PizzaOrderReceipt\obj\Debug\PizzaOrderReceipt.Login.resources
+C:\Users\A\source\repos\PizzaOrderReceipt\obj\Debug\PizzaOrderReceipt.settings.resources
